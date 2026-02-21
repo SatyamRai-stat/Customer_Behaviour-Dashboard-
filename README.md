@@ -14,7 +14,7 @@ This Power BI dashboard analyzes sales performance across regions, categories, a
 - Data Modeling
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 📂 Files Included
 - Sales_Dashboard.pbix
